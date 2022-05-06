@@ -50,20 +50,20 @@
 
 <h1 align="center">Github Status 📊</h1>
 <p align="center">
-  <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bienDinh199x&theme=github_dark" />
+  <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinhthanhbien&theme=github_dark" />
 </p>
 
 
 <!--   GitHub stats graph -->
 <h1 align="center">📈 GitHub Activity Graph: 📊</h1>
 
-[![Ninjas GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=bienDinh199x)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ninjas GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=dinhthanhbien)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  . | .
 --- | --- 
-![bienDinh199x github stats](https://github-readme-stats.vercel.app/api?username=bienDinh199x&show_icons=true&theme=github_dark&include_all_commits=true) | ![bienDinh199x github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bienDinh199x&theme=github_dark&layout=compact)
+![bienDinh199x github stats](https://github-readme-stats.vercel.app/api?username=dinhthanhbien&show_icons=true&theme=github_dark&include_all_commits=true) | ![bienDinh199x github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhthanhbien&theme=github_dark&layout=compact)
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bienDinh199x" ></img>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinhthanhbien" ></img>
 </p>
 
 
@@ -71,7 +71,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 📫 How to Reach me:
 <p align="left">
 <a href="biendt.ktqs@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/bienDinh199x"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/dinhthanhbien"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 <br/>
 
@@ -81,11 +81,11 @@
 
 
 <p align="center">
-<img src="https://gpvc.arturio.dev/bienDinh199x" alt="Profile views"/>
+<img src="https://gpvc.arturio.dev/dinhthanhbien" alt="Profile views"/>
 </p>
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=bienDinh199x.bienDinh199x" alt="visitors"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=dinhthanhbien.dinhthanhbien" alt="visitors"/>
 </p>
 
 
