@@ -61,7 +61,7 @@
 
  . | .
 --- | --- 
-![bienDinh199x github stats](https://github-readme-stats.vercel.app/api?username=dinhthanhbien&show_icons=true&theme=github_dark&include_all_commits=true) | ![bienDinh199x github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhthanhbien&theme=github_dark&layout=compact)
+![dinhthanhbien github stats](https://github-readme-stats.vercel.app/api?username=dinhthanhbien&show_icons=true&theme=github_dark&include_all_commits=true) | ![dinhthanhbien github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhthanhbien&theme=github_dark&layout=compact)
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinhthanhbien" ></img>
 </p>
@@ -76,7 +76,7 @@
 <br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Git profile Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bienDinh199x&layout=compact&theme=algolia" alt="ninja" width="700px"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinhthanhbien&layout=compact&theme=algolia" alt="ninja" width="700px"/></a> </p>
 
 
 
